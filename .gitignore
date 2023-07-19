@@ -12,13 +12,3 @@ comp_report.txt
 
 # Ignore asm dump
 *.dump
-
-# Ignore VHDL rams
-vhdl_src/src/ram/B_RAM*
-
-# Ignorce c models
-scripts/models
-scripts/predictions
-
-# Ignore gcc-ricv build
-docker/gcc-riscv
